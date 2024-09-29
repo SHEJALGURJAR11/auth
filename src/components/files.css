@@ -1,0 +1,20 @@
+.filescss{
+    margin-left: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.h2files{
+    margin-bottom: -55px;
+}
+.filesbtn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
